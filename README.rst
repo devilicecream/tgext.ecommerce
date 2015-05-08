@@ -23,4 +23,4 @@ Then at the *end of the file* call plug with tgext.ecommerce::
 
     plug(base_config, 'tgext.ecommerce')
 
-You will be able to access tgext.ecommerge functions as ``tg.app_globals.shop``
+You will be able to access tgext.ecommerce functions as ``tg.app_globals.shop``
